@@ -1,0 +1,9 @@
+title = "Inazuma Eleven 3: Lightning Bolt and Bomb Blast"
+description = "Inazuma Eleven is a role-playing and sports video game for the Nintendo 3DS, developed and published by Level-5. It's the  the  third installment of the Inazuma Eleven games. There are two versions of the game, Lightning Bolt and Bomb Blast."
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "00040000000F7E00"
+region = "eur"
+release_date = "2013-09-27"
